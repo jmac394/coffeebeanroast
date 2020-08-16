@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width: 15%;
+}
+
+#some-style{
+    width: 61%;
+}
+
+#some-align{
+    width: 24%;
+    align-content: center;
+}
+
+#roast-color{
+    width: 80%;
+}
+
+#button-style{
+    width: 20%;
+    text-align: left;
+}
+
+#Comments{
+    width: 622px;
+    align-content: center;
+}
